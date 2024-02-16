@@ -1,5 +1,8 @@
 # Maven & Java skeleton
 
+
+
+same...
 This repository contains a starting point for Java projects.
 
 It configures the compiler to use UTF-8, Java 17, and enables reflection on parameters. It also shows deprecated APIs
