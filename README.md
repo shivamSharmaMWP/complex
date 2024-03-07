@@ -1,7 +1,4 @@
 # Maven & Java skeleton
-
-
-
 same...
 This repository contains a starting point for Java projects.
 
